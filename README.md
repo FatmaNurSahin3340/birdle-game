@@ -36,3 +36,9 @@ Input validation for 5-letter words.
 Dynamic color-coded hints for better player guidance.
 
 Randomized word selection for replayability.
+
+
+Author
+Fatma Nur Şahin
+🎓 Business Administration & Management Information Systems Student
+📧 https://www.linkedin.com/in/fatmanursahin3340/ 📍 Türkiye
